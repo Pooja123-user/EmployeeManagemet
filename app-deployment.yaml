@@ -22,7 +22,7 @@ spec:
               value: mysql
 
             - name: DB_NAME  # Setting Database name from configMap
-              value: CustomerDetails
+              value: Employeedetails
 
             - name: DB_USERNAME  # Setting Database username from Secret
               value: root
